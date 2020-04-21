@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/arsun/static/css/main.b7451e56.chunk.css",
+    "main.js": "/arsun/static/js/main.a6d28d44.chunk.js",
+    "main.js.map": "/arsun/static/js/main.a6d28d44.chunk.js.map",
+    "runtime-main.js": "/arsun/static/js/runtime-main.818244bf.js",
+    "runtime-main.js.map": "/arsun/static/js/runtime-main.818244bf.js.map",
+    "static/js/2.d7c0cb54.chunk.js": "/arsun/static/js/2.d7c0cb54.chunk.js",
+    "static/js/2.d7c0cb54.chunk.js.map": "/arsun/static/js/2.d7c0cb54.chunk.js.map",
+    "index.html": "/arsun/index.html",
+    "precache-manifest.8bf6cbed29a540c52d61140e2f3f20d6.js": "/arsun/precache-manifest.8bf6cbed29a540c52d61140e2f3f20d6.js",
+    "service-worker.js": "/arsun/service-worker.js",
+    "static/css/main.b7451e56.chunk.css.map": "/arsun/static/css/main.b7451e56.chunk.css.map",
+    "static/js/2.d7c0cb54.chunk.js.LICENSE.txt": "/arsun/static/js/2.d7c0cb54.chunk.js.LICENSE.txt",
+    "static/media/Alina.jpg": "/arsun/static/media/Alina.78ad68b0.jpg",
+    "static/media/Dana.jpg": "/arsun/static/media/Dana.24c1d0de.jpg",
+    "static/media/Dasha.jpg": "/arsun/static/media/Dasha.94177d9f.jpg",
+    "static/media/Nastiia.jpg": "/arsun/static/media/Nastiia.a38937d7.jpg",
+    "static/media/about-picture.jpg": "/arsun/static/media/about-picture.f52b2968.jpg",
+    "static/media/page2.jpg": "/arsun/static/media/page2.7fc2ad88.jpg",
+    "static/media/page3.jpg": "/arsun/static/media/page3.a47dafc6.jpg",
+    "static/media/page4.jpg": "/arsun/static/media/page4.8676d7dd.jpg",
+    "static/media/page5.jpg": "/arsun/static/media/page5.bc2c1aad.jpg",
+    "static/media/page6.jpg": "/arsun/static/media/page6.ae9a96b7.jpg",
+    "static/media/page7.jpg": "/arsun/static/media/page7.e2676f06.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.818244bf.js",
+    "static/js/2.d7c0cb54.chunk.js",
+    "static/css/main.b7451e56.chunk.css",
+    "static/js/main.a6d28d44.chunk.js"
+  ]
+}
